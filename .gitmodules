@@ -1,0 +1,9 @@
+[submodule "karthick-vinod-service-kotlin-client"]
+	path = karthick-vinod-service-kotlin-client
+	url = https://github.com/logeshdinahypto/karthick-vinod-service-kotlin-client.git
+[submodule "karthick-vinod-service-server"]
+	path = karthick-vinod-service-server
+	url = https://github.com/logeshdinahypto/karthick-vinod-service-server.git
+[submodule "karthick-vinod-infrastructure"]
+	path = karthick-vinod-infrastructure
+	url = https://github.com/logeshdinahypto/karthick-vinod-infrastructure.git
